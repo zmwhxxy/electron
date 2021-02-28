@@ -20,3 +20,4 @@ app.on('ready', () => {
         mainWnd = null;  //销毁窗口防止内存占用过高 
     });
 });
+
